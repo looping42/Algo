@@ -1,5 +1,5 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace AlgoTestUnitaire
 {
@@ -9,6 +9,7 @@ namespace AlgoTestUnitaire
         [TestMethod]
         public void TestMethod1()
         {
+            string test = "";
         }
     }
 }
