@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings name="Local" id="268f76c8-b753-4bbd-938a-914811a64203" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description>Il s'agit des paramètres de test par défaut pour une série de tests locale.</Description>
+  <Deployment enabled="false" />
+  <Execution>
+    <TestTypeSpecific />
+    <AgentRule name="Execution Agents">
+    </AgentRule>
+  </Execution>
+  <Properties>
+    <Property name="TestSettingsUIType" value="LoadTest" />
+  </Properties>
+</TestSettings>
