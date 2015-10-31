@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algo
+namespace Algo1
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+        }
+
+        public static void testunit()
+        {
+            Console.WriteLine("hello");
         }
     }
 }

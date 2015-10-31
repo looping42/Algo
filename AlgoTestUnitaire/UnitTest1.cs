@@ -1,5 +1,20 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using AlgoLibrary;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+
+namespace AlgoLibrary.Tests
+{
+    [TestClass()]
+    public class UnitTest1
+    {
+        [TestMethod()]
+        public void testTest()
+        {
+            AlgoLibrary.Class1.test();
+            //throw new NotImplementedException();
+        }
+    }
+}
 
 namespace AlgoTestUnitaire
 {
@@ -9,7 +24,6 @@ namespace AlgoTestUnitaire
         [TestMethod]
         public void TestMethod1()
         {
-            string test = "qsdqsd";
         }
     }
 }

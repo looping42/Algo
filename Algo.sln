@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algo", "Algo\Algo.csproj", "{66930DF6-5620-476B-9D2A-D049B4CB698A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoTestUnitaire", "AlgoTestUnitaire\AlgoTestUnitaire.csproj", "{F7E266A8-E2DE-46A2-8AF2-E4EDBDD0D426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoLibrary", "AlgoLibrary\AlgoLibrary.csproj", "{7CFA1575-A068-48E9-89BE-760E4B4EBC22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{66930DF6-5620-476B-9D2A-D049B4CB698A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66930DF6-5620-476B-9D2A-D049B4CB698A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66930DF6-5620-476B-9D2A-D049B4CB698A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66930DF6-5620-476B-9D2A-D049B4CB698A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F7E266A8-E2DE-46A2-8AF2-E4EDBDD0D426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F7E266A8-E2DE-46A2-8AF2-E4EDBDD0D426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7E266A8-E2DE-46A2-8AF2-E4EDBDD0D426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7E266A8-E2DE-46A2-8AF2-E4EDBDD0D426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFA1575-A068-48E9-89BE-760E4B4EBC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFA1575-A068-48E9-89BE-760E4B4EBC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFA1575-A068-48E9-89BE-760E4B4EBC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFA1575-A068-48E9-89BE-760E4B4EBC22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
