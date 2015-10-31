@@ -9,7 +9,7 @@ namespace AlgoTestUnitaire
         [TestMethod]
         public void TestMethod1()
         {
-            string test = "";
+            string test = "qsdqsd";
         }
     }
 }
